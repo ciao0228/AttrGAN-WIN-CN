@@ -1,7 +1,7 @@
 # Attr2Font
 ## Introduction
 
-This is the official PyTorch implementation of the **Attribute2Font: Creating Fonts You Want From Attributes**.
+This is the official PyTorch implementation of the **Attribute2Font: Creating Fonts You Want From Attributes**.(本项目核心框架为参考自(https://github.com/hologerry/Attr2Font))
 
 ![Teaser](img/teaser.png)
 
@@ -30,7 +30,7 @@ Font design is now still considered as an exclusive privilege of professional de
 
 ## Get Started
 
-### Installation
+### Installation(若已下载完整项目，请直接执行第3小步）
 1. Install PyTorch, torchvison and dependencies from [https://pytorch.org](https://pytorch.org)
 2. Clone this repo:
    ```shell
